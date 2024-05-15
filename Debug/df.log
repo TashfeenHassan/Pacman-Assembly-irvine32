@@ -1,0 +1,3 @@
+﻿  Assembling Main.asm...
+Main.asm(10): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  df.vcxproj -> D:\df\Debug\df.exe
